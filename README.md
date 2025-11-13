@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning C#, HTML and CSS
 - 👥 Friends: [@Chicken-Wing-gif](https://github.com/Chicken-Wing-gif) and [@JackyC208](https://github.com/JackyC208)
 - 🔗 Social accounts: [Gravatar](https://gravatar.com/codenmodv)
-- 📫 How to reach me: codenmodv@gmail.com
+- 📫 How to reach me: VonnMAC1234@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I write stories about the RPC Chat Forums students!!!
